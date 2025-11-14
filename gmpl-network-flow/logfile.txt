@@ -1,0 +1,38 @@
+Problem: _temp
+Vmode: 33.
+Network data file: /home/rikag489/Desktop/optimering/uppgiftA.net
+Problem: uppgiftA
+Coordinate file: /home/rikag489/Desktop/optimering/uppgiftA.crd
+Network file: /home/rikag489/Desktop/optimering/uppgiftA.net
+Solution file: /home/rikag489/Desktop/optimering/uppgiftA.res
+Name file: /home/rikag489/Desktop/optimering/uppgiftA.nam
+Comment file: /home/rikag489/Desktop/optimering/uppgiftA.txt
+Config file: /home/rikag489/Desktop/optimering/uppgiftA.cfg
+Nodes: 16 Links: 36
+Nodes: 16
+Nodes: 16
+Nodes: 16 Links: 36
+Costscale set to 1.0
+Flow: 80 150 50 0 0 99719 0 130 0 150 0 190 0 100 180 50 0 80 140 100 40 0 0 0 230 0 0 0 0 100 0 180 80 0 0 0
+RedCost: 0.0 0.0 0.0 3.0 3.0 0.0 2.0 10.0 2.0 8.0 5.0 8.0 2.0 12.0 12.0 -2.0 5.0 0.0 0.0 0.0 0.0 7.0 2.0 3.0 0.0 7.0 7.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 7.0 2.0
+Solved min cost flow problem
+Total cost: 7130.0
+x: 115.0 - 764.0, y: 61.0 - 570.0
+Network data file: /home/rikag489/Desktop/optimering/uppgiftB.net
+Problem: uppgiftB
+Coordinate file: /home/rikag489/Desktop/optimering/uppgiftB.crd
+Network file: /home/rikag489/Desktop/optimering/uppgiftB.net
+Solution file: /home/rikag489/Desktop/optimering/uppgiftB.res
+Name file: /home/rikag489/Desktop/optimering/uppgiftB.nam
+Comment file: /home/rikag489/Desktop/optimering/uppgiftB.txt
+Config file: /home/rikag489/Desktop/optimering/uppgiftB.cfg
+Nodes: 16 Links: 39
+Nodes: 16
+Nodes: 16
+Nodes: 16 Links: 39
+Costscale set to 1.0
+Flow: 20 150 0 0 0 99829 0 130 0 150 0 190 0 100 60 180 190 50 0 0 0 100 50 0 50 0 290 0 0 0 50 50 0 110 120 0 50 0 0
+RedCost: 0.0 0.0 8.0 6.0 4.0 0.0 2.0 13.0 10.0 11.0 0.0 1.0 0.0 9.0 0.0 11.0 0.0 -2.0 2.0 0.0 5.0 0.0 -2.0 4.0 0.0 5.0 0.0 6.0 6.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 2.0
+Solved min cost flow problem
+Total cost: 6010.0
+x: 115.0 - 764.0, y: 61.0 - 570.0

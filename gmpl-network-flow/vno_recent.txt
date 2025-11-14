@@ -1,0 +1,4 @@
+3
+/home/rikag489/Desktop/optimering/uppgiftB.net
+/home/rikag489/Desktop/optimering/uppgiftA.net
+/home/rikag489/Desktop/optimering/test.net

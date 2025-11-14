@@ -1,0 +1,16 @@
+The heuristic does well that it picks the factory with the lowest cost and 
+then based on that factory it will give all of its resources to as many 
+customers as possible (in the cheapest oreder). There's major flaws
+    1. It only looks on the cheapest price for the factory, not on the "roads"
+        to the customers when choosing the factory to place.
+    2. When the factory is chosen it will give all of its supply, without 
+        concidering that there might be cheaper options with a new factory and
+        with its own set of roads.
+
+The heuristic is more suitable to calculating the best way to place factories, 
+therefore if the "roads" have similar cost for all factories, it will give a
+good estimation. 
+
+The heuristic is very bad if the factory prices would be similar but the roads
+would have a large difference in price. 
+

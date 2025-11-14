@@ -1,0 +1,25 @@
+1 
+a) Notera målfunktionsvärde, primal optimallösning och dual optimallösning. Vilka
+variabler är basvariabler i optimallösningen?
+Basvariabler: x3, x5, x1
+optimallösning:
+x1 = 10, x2 = 0, x3 = 10
+x4 = 0,  x5 = 4, x6 = 0
+z  = 50
+DUAL:
+x4 = 1
+X6 = 0,33
+b)
+c7(hat) - c7*a(transpose) = 2 - (0 2 3) * (1 0 1/3) = 1 > 0
+Red. kostnad är positiv så en bättre optimallösning finns nu
+
+c)
+x1 = 2, x2 = 0, x3 = 14
+x4 = 0,  x5 = 0, x6 = 0, x7 = 4
+z  = 54
+
+2B???
+-10,6667
+
+2C
+

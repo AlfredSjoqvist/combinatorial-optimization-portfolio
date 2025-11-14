@@ -1,0 +1,20 @@
+Total cost: 6580.0
+Link flow:
+Link: (Ka,MO): 	Flow: 80
+Link: (Ka,TO): 	Flow: 150
+Link: (Ka,OO): 	Flow: 50
+Link: (Ka,Sa): 	Flow: 99719.0
+Link: (MO,MB): 	Flow: 130
+Link: (TO,TB): 	Flow: 150
+Link: (OO,OB): 	Flow: 190
+Link: (RO,RB): 	Flow: 100
+Link: (FO,FB): 	Flow: 180
+Link: (MB,OO): 	Flow: 130
+Link: (TB,OO): 	Flow: 10
+Link: (TB,RO): 	Flow: 100
+Link: (TB,OB): 	Flow: 40
+Link: (OB,FO): 	Flow: 230
+Link: (RB,Sa): 	Flow: 100.0
+Link: (FB,Sa): 	Flow: 180.0
+
+
